@@ -1,8 +1,2 @@
-{
-  "name": "your-project-name",  // Your Pages project name (must match the one in your Cloudflare dashboard)
-  "main": "dist/index.html",    // Entry point for your site (adjust if needed)
-  "compatibility_date": "2025-11-03",  // Use today's date or later for runtime compatibility
-  "compatibility_flags": [],     // Add flags if needed, e.g., ["nodejs_compat"]
-  "pages_build_output_dir": "dist",  // Directory with your built static assets
-  "account_id": "your-account-id"  // Your Cloudflare account ID (optional if logged in via Wrangler)
-}
+// wrangler.jsonc
+"name": "books",
